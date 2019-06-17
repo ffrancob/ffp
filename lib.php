@@ -18,7 +18,7 @@
  * This file contains functions used by the datum reports
  *
  * @package   report_datum
- * @copyright 2014 Rajesh Taneja <rajesh@moodle.com>
+ * @copyright 2019 by FFP
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
